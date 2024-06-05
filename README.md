@@ -75,9 +75,9 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=albu-ali&theme=merko&card_width=1000" alt="GitHub Streak" /></a>
   <br/>
   <img width=480 src="https://github-readme-stats.vercel.app/api?username=albu-ali&hide=stars&show_icons=true&theme=merko">
-  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=albu-ali&layout=donut&theme=merko&langs_count=4">
+  <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=albu-ali&layout=donut&theme=merko&langs_count=4">
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albu-ali&theme=merko&radius=4.5">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albu-ali&theme=merko&radius=8">
 </div>
 
 <br/><br/>
