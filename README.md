@@ -52,8 +52,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=arch,linux,bash,python,vim,github,git" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br>
 </div>
 
 <br/>
@@ -72,10 +72,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=albu-ali&theme=radical&card_width=700" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=albu-ali&theme=radical&card_width=1000" alt="GitHub Streak" /></a>
   <br/>
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=albu-ali&hide=stars&show_icons=true&theme=radical">
-  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=albu-ali&layout=donut&theme=radical&langs_count=4">
+  <img width=600 src="https://github-readme-stats.vercel.app/api?username=albu-ali&hide=stars&show_icons=true&theme=radical">
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=albu-ali&layout=donut&theme=radical&langs_count=4">
 </div>
 
 <br/><br/>
