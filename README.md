@@ -36,8 +36,8 @@
 
 
 
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+<details open> 
+  <summary><h2>🛠️ My Favorite Tools I Know/Love Using It</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -55,13 +55,13 @@
 
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+  <h3>🧰 Cybersecurity and Programming Tools</h3>
 
   <p>
-      <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Splunk-green?style=flat&logo=Splunk"></a>
-      <a href="#"><img alt="BlissfulJS" src="https://custom-icon-badges.demolab.com/badge/Bliss.js-3dacc2.svg?logo=bliss&logoColor=white"></a>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
+      <a href="#"><img alt="linux" src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"></a>   
+      <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Arch-darkblue?logo=archlinux"></a>      
+      <a href="#"><img alt="splunk" src="https://img.shields.io/badge/Splunk-green?style=flat&logo=Splunk"></a>
+      <a href="#"><img alt="wireshark" src="https://img.shields.io/badge/Wireshark-blue?logo=wireshark"></a>
       <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
       <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
@@ -127,7 +127,7 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
+   </details>
 
 <hr/>
 
