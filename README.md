@@ -4,30 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Albu+Ali!;" />
 </h1>
 
-<h3 align="center">A passionate cyber security guy from Iraq 🇮🇶</h3>
 
+# A Cybersecurity guy, Programmer from Iraq 🇮🇶
 <br/>
 
-<div align="center">
+
 <!--
-[![GitHub Streak](https://streak-stats.demolab.com/?user=albu-ali)](https://git.io/streak-stats)
-<img src="https://streak-stats.demolab.com/?user=albu-ali&theme=tokyonight">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=albu-ali&theme=youtube-dark&card_width=390" alt="GitHub Streak" /></a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albu-ali&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
--->
- 
-
+<h3 align="center">A passionate cyber security guy from Iraq 🇮🇶</h3>
+--> 
 
  
- 🔭 I’m currently working on **a marketplace**
+🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Python, AWS**
+🌱 I’m currently learning **Docker, Python, AWS**
 
 💬 Ask me about **anything in cybersecurity or python on [here](https://github.com/albu-ali/albu-ali/issues)**
 
