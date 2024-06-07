@@ -59,7 +59,7 @@
 
   <p>
       <a href="#"><img alt="linux" src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"></a>   
-      <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Arch-darkblue?logo=archlinux"></a>      
+      <a href="#"><img alt="arch linux" src="https://img.shields.io/badge/Arch linux-darkblue?logo=archlinux&logoColor=white"></a>      
       <a href="#"><img alt="splunk" src="https://img.shields.io/badge/Splunk-green?style=flat&logo=Splunk"></a>
       <a href="#"><img alt="wireshark" src="https://img.shields.io/badge/Wireshark-blue?logo=wireshark"></a>
       <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
