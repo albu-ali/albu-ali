@@ -134,12 +134,12 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=albu-ali&theme=radical&card_width=1000" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=albu-ali&theme=react&card_width=1000" alt="GitHub Streak" /></a>
   <br/>
-  <img width=480 src="https://github-readme-stats.vercel.app/api?username=albu-ali&hide=stars&show_icons=true&theme=radical">
-  <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=albu-ali&layout=donut&theme=radical&langs_count=4">
+  <img width=480 src="https://github-readme-stats.vercel.app/api?username=albu-ali&hide=stars&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10">
+  <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=albu-ali&layout=donut&theme=react&langs_count=4">
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albu-ali&theme=redical&radius=8">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albu-ali&theme=react&radius=8">
 </div>
 
 <br/><br/>
