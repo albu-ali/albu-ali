@@ -1,8 +1,9 @@
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=albu-ali.albu-ali" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=f75c7e&v&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Albu+Ali!;Cybersecurity,+Programmer;2+years+in+coding+experience;Always+learning+new+things" />
-</h1>
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=f75c7e&v&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Albu+Ali!;Cybersecurity,+Programmer;2+years+in+coding+experience;Always+learning+new+things" /> 
+</p>
+
 
 <p align="center">
  <img src="https://i.ibb.co/ZJrBBcj/0675d45b21c0652f670761d646b7a825.png" alt="0675d45b21c0652f670761d646b7a825" data-is360="0" data-load="full" width="212" height="212">
@@ -125,9 +126,10 @@
   </p>
    </details>
 
-<hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<details open>
+  <summary><h2> ⚡ Stats ⚡ </h2></summary>
+
 <br>
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=albu-ali&theme=radical&card_width=1000" alt="GitHub Streak" /></a>
@@ -138,14 +140,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=albu-ali&theme=redical&radius=8">
 </div>
 
-<br/><br/>
+ 
+</details>
 
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
+<p2 align="center"></p2>
