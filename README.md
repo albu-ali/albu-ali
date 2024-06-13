@@ -4,16 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=f75c7e&v&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Albu+Ali!;Cybersecurity,+Programmer;" />
 </h1>
 
-
-# A Cybersecurity guy, Programmer from Iraq 🇮🇶
-
-<br/>
-
-
-<!--
-<h3 align="center">A passionate cyber security guy from Iraq 🇮🇶</h3>
---> 
-
+<details>
+  <summary><h2>👨🏻‍🦱 Little about me</h2></summary>
  
 🔭 I’m currently working on **a marketplace**
  
@@ -22,10 +14,9 @@
 💬 Ask me about **anything in cybersecurity or python on [here](https://github.com/albu-ali/albu-ali/issues)**
 
 ⚡ Fun fact **I'm using Arch BTW**
-
+</details>
  
 
- <hr/>
  
 <!-- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
