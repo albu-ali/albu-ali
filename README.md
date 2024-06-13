@@ -4,6 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=f75c7e&v&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Albu+Ali!;Cybersecurity,+Programmer;2+years+in+coding+experience;Always+learning+new+things" />
 </h1>
 
+<p align="center">
+ <img src="https://i.ibb.co/ZJrBBcj/0675d45b21c0652f670761d646b7a825.png" alt="0675d45b21c0652f670761d646b7a825" data-is360="0" data-load="full" width="212" height="212">
+</p>
+
+
 <details>
   <summary><h2>👨🏻‍🦱 Little about me</h2></summary>
  
