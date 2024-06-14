@@ -88,14 +88,14 @@
       <a href="#"><img alt="splunk" src="https://img.shields.io/badge/Splunk-green?style=flat&logo=Splunk"></a>
       <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-%23004d1a?style=flat&logo=neovim"></a>
       <a href="#"><img alt="wireshark" src="https://img.shields.io/badge/Wireshark-blue?logo=wireshark"></a>
-      <a href="#"><img alt="Podman" src="https://img.shields.io/badge/Podman-%23ff80bf?style=flat&logo=podman&logoColor=white">
+      <a href="#"><img alt="Podman" src="https://img.shields.io/badge/Podman-%23ff80bf?style=flat&logo=podman&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-blue?style=flat&logo=windows&logoColor=white">
-      <a href="#"><img alt="Snort" src="https://img.shields.io/badge/Snort-red?style=flat&logo=pug&logoColor=white">
+      <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-blue?style=flat&logo=windows&logoColor=white"></a>
+      <a href="#"><img alt="Snort" src="https://img.shields.io/badge/Snort-red?style=flat&logo=pug&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-      <a href="#"><img alt="ZLE" src="https://img.shields.io/badge/ZLE-%23333300?style=flat&logo=zsh&logoColor=white">
-      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white">
+      <a href="#"><img alt="ZLE" src="https://img.shields.io/badge/ZLE-%23333300?style=flat&logo=zsh&logoColor=white"></a>
+      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -130,7 +130,7 @@
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="ffmpeg" src="https://img.shields.io/badge/ffmpeg-%23009933?style=flat&logo=ffmpeg">
+      <a href="#"><img alt="ffmpeg" src="https://img.shields.io/badge/ffmpeg-%23009933?style=flat&logo=ffmpeg"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
    </details>
