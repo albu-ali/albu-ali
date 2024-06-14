@@ -6,10 +6,7 @@
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/top%201%25%20player%20-%23cc0000?style=for-the-badge&logo=tryhackme&label=tryhackme&labelColor=%23b30000&link=https%3A%2F%2Fwww.youtube.com%2F%40Thinkright20%2Fvideos">
-
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-  <img alt="Static Badge" src="https://img.shields.io/badge/developer%20-%2355960c?style=for-the-badge&logo=python&logoColor=white&label=python&labelColor=%23488207&link=https%3A%2F%2Fwww.youtube.com%2F%40Thinkright20%2Fvideos">
-   
+  <img alt="Static Badge" src="https://img.shields.io/badge/developer%20-%2355960c?style=for-the-badge&logo=python&logoColor=white&label=python&labelColor=%23488207&link=https%3A%2F%2Fwww.youtube.com%2F%40Thinkright20%2Fvideos">   
   <a href="https://github.com/albu-ali">
 <img alt="Static Badge" src="https://img.shields.io/badge/follow%20me%20there%20-%23236ad3?style=for-the-badge&logo=github&logoColor=white&label=github&labelColor=%231155ba&link=https%3A%2F%2Fwww.youtube.com%2F%40Thinkright20%2Fvideos">
 </p>
