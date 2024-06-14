@@ -4,16 +4,26 @@
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=f75c7e&v&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Albu+Ali!;Cybersecurity,+Programmer;2+years+in+coding+experience;Always+learning+new+things" /> 
 </p>
 
-
 <p align="center">
- <img src="https://i.ibb.co/ZJrBBcj/0675d45b21c0652f670761d646b7a825.png" alt="0675d45b21c0652f670761d646b7a825" data-is360="0" data-load="full" width="212" height="212">
+  <img alt="Static Badge" src="https://img.shields.io/badge/top%201%25%20player%20-%23cc0000?style=for-the-badge&logo=tryhackme&label=tryhackme&labelColor=%23b30000&link=https%3A%2F%2Fwww.youtube.com%2F%40Thinkright20%2Fvideos">
+
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+  <img alt="Static Badge" src="https://img.shields.io/badge/developer%20-%2355960c?style=for-the-badge&logo=python&logoColor=white&label=python&labelColor=%23488207&link=https%3A%2F%2Fwww.youtube.com%2F%40Thinkright20%2Fvideos">
+   
+  <a href="https://github.com/albu-ali">
+<img alt="Static Badge" src="https://img.shields.io/badge/follow%20me%20there%20-%23236ad3?style=for-the-badge&logo=github&logoColor=white&label=github&labelColor=%231155ba&link=https%3A%2F%2Fwww.youtube.com%2F%40Thinkright20%2Fvideos">
 </p>
 
 
+<p align="center">
+ <img src="https://i.ibb.co/ZJrBBcj/0675d45b21c0652f670761d646b7a825.png" alt="0675d45b21c0652f670761d646b7a825" data-is360="0" data-load="full" width="212" height="212">
+ </p>
+
 <details>
   <summary><h2>👨🏻‍🦱 Little about me</h2></summary>
- 
-🔭 I’m currently working on **a marketplace**
+ <img src="https://i.ibb.co/Jc9y7SM/giphy.webp" alt="giphy" data-is360="0" width="500" height="240">
+
+ 🔭 I’m currently working on **a marketplace**
  
 🌱 I’m currently learning **Docker, Python, AWS**
 
