@@ -20,13 +20,13 @@
   <summary><h2>👨🏻‍🦱 Little about me</h2></summary>
  <img src="https://i.ibb.co/Jc9y7SM/giphy.webp" alt="giphy" data-is360="0" width="500" height="240">
 
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **my own Business**
  
-🌱 I’m currently learning **Docker, Python, AWS**
+🌱 I’m currently learning **Security Analysis, Python**
 
 💬 Ask me about **anything in cybersecurity or python on [here](https://github.com/albu-ali/albu-ali/issues)**
 
-⚡ Fun fact **I'm using Arch BTW**
+⚡ Fun fact **I'm Arch user BTW**
 </details>
  
 
