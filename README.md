@@ -96,6 +96,7 @@
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
       <a href="#"><img alt="ZLE" src="https://img.shields.io/badge/ZLE-%23333300?style=flat&logo=zsh&logoColor=white"></a>
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white"></a>
+      <a href="#"><img alt="trivy" src="https://img.shields.io/badge/Trivy-blackyellow?logo=trivy"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
