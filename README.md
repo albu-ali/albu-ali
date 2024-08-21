@@ -39,8 +39,8 @@
 </div> -->
 
 
-
-<details open> 
+<!-- it was details open --> 
+<details> 
   <summary><h2>🛠️ My Favorite Tools I Know/Love Using It</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -132,7 +132,7 @@
    </details>
 
 
-<details open>
+<details>
   <summary><h2> ⚡ Stats ⚡ </h2></summary>
 
 <br>
