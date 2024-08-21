@@ -131,7 +131,7 @@
    </details>
 
 
-<details>
+<details open>
   <summary><h2> ⚡ Stats on Github</h2></summary>
 
 <br>
@@ -145,6 +145,6 @@
 </div>
 
  
-</details>
+</details open>
 
 <p2 align="center"></p2>
