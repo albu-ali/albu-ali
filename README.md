@@ -132,7 +132,7 @@
 
 
 <details>
-  <summary><h2> ⚡ Stats ⚡ </h2></summary>
+  <summary><h2> ⚡ Stats on Github</h2></summary>
 
 <br>
 <div align=center>
